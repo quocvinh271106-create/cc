@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Covid19.BLL/Covid19.BLL.csproj" />
+  <Project Path="Covid19.DAL/Covid19.DAL.csproj" />
+  <Project Path="Covid19.GUI/Covid19.GUI.csproj" />
+</Solution>
